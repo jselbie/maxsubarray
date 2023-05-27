@@ -7,8 +7,7 @@ Find the "sub array" with the largest sum
 
 https://leetcode.com/problems/maximum-subarray/
 
-solution.cpp - this is the accepted solution and O(n) algorithm. It creates a summation array then looks for the biggest delta between
-local mimimums and local maximums.
+solution.cpp - this is the accepted solution and O(n) algorithm. It creates a summation array then looks for the biggest delta between local mimimums and local maximums.
 
 dynamicSolutionNoCache.cpp - this solution passes most test cases, but fails with a time limit exceeded on some of the larger input set. It uses a classic dynamic programming solution.
 
