@@ -11,5 +11,5 @@ solution.cpp - this is the accepted solution and O(n) algorithm. It creates a su
 
 dynamicSolutionNoCache.cpp - this solution passes most test cases, but fails with a time limit exceeded on some of the larger input set. It uses a classic dynamic programming solution.
 
-dynamicSolutionWithCache.cpp - this solution passes more test cases than the previous solution, but still fail with a time limit exceeded on some of the larger input set. It extends the previous solution with a cache of previous recursion results.
+dynamicSolutionWithCache.cpp - this solution passes more test cases than the previous solution, but still fails with a "time limit exceeded" error on some of the larger input sets. It extends the previous solution with a cache of previous recursion results.
 
