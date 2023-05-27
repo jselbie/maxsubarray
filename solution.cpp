@@ -1,3 +1,6 @@
+// This is the O(n) accepted solution using a "summation array" and a single pass
+// to find the largest delta between local minimums to subsequent local maxima
+
 #include <vector>
 using namespace std;
 
